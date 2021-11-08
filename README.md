@@ -120,7 +120,9 @@ Your grade for this class will be determined by:
   dropped.  The submission should be typeset in LaTex, and submitted as a PDF
   both in D2L and Gradescope. Each problem should be started on a fresh page.
 * The [miscellaneous assignments](misc.md) will be worth up to 10 points each,
-  and the total sum will count as a HW grade (max grade: 100).
+  and the total sum will count as a HW grade (max grade: 100). If you choose not
+  to do the miscellaneous assigments, that grade will be one of the two lowest 
+  homework grades dropped, as mentioned above.
 * Project: Groups will be assigned.  You will be creating a video presentation
   of a "modern" algorithm.  More details to come.
 * Exams: We will have three exams in this course. Each exam will be 10% of the
@@ -154,7 +156,7 @@ lecture, and one half-point will be deducted from your final course grade.
 
 ### Withdrawing
 
-After 25 October 2020, I will only support requests to withdraw from this course
+After 25 October 2021, I will only support requests to withdraw from this course
 with a "W" grade if extraordinary personal circumstances exist.  If you are
 considering withdrawing from this class, discussing this with me as early as
 possible is advised.  Since this class involves a project, the decision to
@@ -332,7 +334,37 @@ Each week, we assign:
 - Topics: Graph Algorithms 
 - Reading: Chapters 5,6 
 
+### Week 9 (18,20,22 October)
+- Topics: Graph Algorithms (cont.)
+- Reading: Chapters 5,6 
 
+### Week 10 (25,27,29 October)
+- Topics: More Graph Algorithms 
+- Reading: Chapter 7 
+
+### Week 11 (1,3,5 November)
+- Exam on Wednesday!
+- Topics: TODO 
+- Reading: TODO 
+
+### Week 12 (8,10,12 November)
+- Topics: TODO 
+- Reading: TODO 
+
+### Week 13 (15,17,19 November)
+- Topics: TODO 
+- Reading: TODO 
+
+### Week 14 (22,24,26 November)
+- Fall Break (no classes)
+
+### Week 15 (29 November; 1,3 December)
+- Topics: TODO 
+- Reading: TODO 
+
+### Week 16 (6,8,10 December)
+- Topics: TODO 
+- Reading: TODO 
 
 ### Week 17 (Finals Week)
 - We meet Wednesday, 15 December, 14:00-15:50.
